@@ -13059,6 +13059,10 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>Teste1</members>
+        <name>SiteDotCom</name>
+    </types>
+    <types>
         <members>AccountContactRole</members>
         <members>AccountOwnership</members>
         <members>AccountRating</members>
