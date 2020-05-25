@@ -2,6 +2,12 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>48.0</version>
     <types>
+        <members>CommunitiesLandingController</members>
+        <members>CommunitiesLandingControllerTest</members>
+        <members>CommunitiesLoginController</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>Object1__c.Field1__c</members>
         <name>CustomField</name>
     </types>
