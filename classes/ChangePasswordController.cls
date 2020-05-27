@@ -11,6 +11,7 @@ public with sharing class ChangePasswordController {
     }     
     
     //This is comment
-	// This is new Comment - 2
+	// Comment added
+	//new comment
     public ChangePasswordController() {}
 }
