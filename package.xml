@@ -9,6 +9,7 @@
         <members>CommunitiesLoginController</members>
         <members>CommunitiesSelfRegConfirmController</members>
         <members>CommunitiesSelfRegConfirmControllerTest</members>
+        <members>CommunitiesSelfRegController</members>
         <members>DemoClass</members>
         <members>LightningLoginFormController</members>
         <name>ApexClass</name>
