@@ -2,7 +2,7 @@
  * An apex page controller that exposes the change password functionality
  */
 public with sharing class ChangePasswordController {
-	//Comment - 1
+	// It's test comment
     public String oldPassword {get; set;}
     public String newPassword {get; set;}
     public String verifyNewPassword {get; set;}        
