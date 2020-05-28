@@ -12,6 +12,7 @@
         <members>CommunitiesSelfRegController</members>
         <members>DemoClass</members>
         <members>LightningLoginFormController</members>
+        <members>MetadataCheckQueueable</members>
         <members>SiteLoginController</members>
         <name>ApexClass</name>
     </types>
