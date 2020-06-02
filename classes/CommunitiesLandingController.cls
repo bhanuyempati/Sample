@@ -9,8 +9,7 @@ public with sharing class CommunitiesLandingController {
     }
     
     // New comment
-
-    
+    // Another new comment
     //new test comment
     //adding test comment
     public CommunitiesLandingController() {}
