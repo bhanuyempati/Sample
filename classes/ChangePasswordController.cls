@@ -10,7 +10,8 @@ public with sharing class ChangePasswordController {
         return Site.changePassword(newPassword, verifyNewPassword, oldpassword);    
     }     
     
-    //new comments-1gj
+    //
+    //new comments-1
     //This is comment testing comments
     public ChangePasswordController() {}
 }
