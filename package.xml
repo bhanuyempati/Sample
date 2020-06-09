@@ -24,4 +24,8 @@
         <members>Admin</members>
         <name>Profile</name>
     </types>
+    <types>
+        <members>SiteSamples1</members>
+        <name>StaticResource</name>
+    </types>
 </Package>
