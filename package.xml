@@ -13117,6 +13117,7 @@
     </types>
     <types>
         <members>SiteSamples</members>
+        <members>SiteSamples1</members>
         <name>StaticResource</name>
     </types>
     <types>
