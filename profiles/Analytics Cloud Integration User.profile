@@ -92,7 +92,7 @@
     </applicationVisibilities>
     <classAccesses>
         <apexClass>ChangePasswordController</apexClass>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>ChangePasswordControllerTest</apexClass>
