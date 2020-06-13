@@ -8,7 +8,7 @@ public with sharing class CommunitiesLandingController {
         return Network.communitiesLanding();
     }
     
-    // Some dummy comment
+    // New comment
     //new test comment
     //adding test comment
     public CommunitiesLandingController() {}
