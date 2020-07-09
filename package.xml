@@ -2,6 +2,9 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>48.0</version>
     <types>
+        <members>A0</members>
+        <members>A0009</members>
+        <members>A0071</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
         <members>CommunitiesLandingController</members>
@@ -13114,6 +13117,7 @@
     </types>
     <types>
         <members>SiteSamples</members>
+        <members>SiteSamples1</members>
         <name>StaticResource</name>
     </types>
     <types>
