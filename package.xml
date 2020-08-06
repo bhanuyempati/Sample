@@ -5,6 +5,8 @@
         <members>A0</members>
         <members>A0009</members>
         <members>A0071</members>
+        <members>A009</members>
+        <members>A0090</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
         <members>CommunitiesLandingController</members>
@@ -12781,6 +12783,10 @@
         <members>Teste.Replace_banned</members>
         <members>Teste.Review_the_first_post</members>
         <name>ModerationRule</name>
+    </types>
+    <types>
+        <members>Default_Navigation</members>
+        <name>NavigationMenu</name>
     </types>
     <types>
         <members>Teste</members>
