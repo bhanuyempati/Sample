@@ -6,7 +6,8 @@
     <enableCspContactVisibilityPref>false</enableCspContactVisibilityPref>
     <enableCspNotesOnAccConPref>false</enableCspNotesOnAccConPref>
     <enableEnablePRM>false</enableEnablePRM>
-    <enableGuestRecordReassignOrgPref>false</enableGuestRecordReassignOrgPref>
+    <enableExternalAccHierPref>false</enableExternalAccHierPref>
+    <enableGuestRecordReassignOrgPref>true</enableGuestRecordReassignOrgPref>
     <enableGuestSecurityOptOutCruc>false</enableGuestSecurityOptOutCruc>
     <enableGuvSecurityOptOutPref>false</enableGuvSecurityOptOutPref>
     <enableInviteChatterGuestEnabled>true</enableInviteChatterGuestEnabled>

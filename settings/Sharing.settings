@@ -7,7 +7,6 @@
     <enableManagerGroups>false</enableManagerGroups>
     <enableManualUserRecordSharing>false</enableManualUserRecordSharing>
     <enablePartnerSuperUserAccess>false</enablePartnerSuperUserAccess>
-    <enablePortalUserCaseSharing>true</enablePortalUserCaseSharing>
     <enablePortalUserVisibility>true</enablePortalUserVisibility>
     <enableRestrictAccessLookupRecords>false</enableRestrictAccessLookupRecords>
     <enableSecureGuestAccess>true</enableSecureGuestAccess>
