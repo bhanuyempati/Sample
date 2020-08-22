@@ -325,7 +325,6 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
-    <externalSharingModel>ControlledByParent</externalSharingModel>
     <fields>
         <fullName>AccountId</fullName>
         <trackFeedHistory>true</trackFeedHistory>
@@ -378,11 +377,6 @@
     <fields>
         <fullName>HomePhone</fullName>
         <trackFeedHistory>false</trackFeedHistory>
-    </fields>
-    <fields>
-        <fullName>IndividualId</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Lookup</type>
     </fields>
     <fields>
         <fullName>Jigsaw</fullName>

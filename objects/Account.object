@@ -227,7 +227,6 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
-    <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>AccountNumber</fullName>
         <trackFeedHistory>false</trackFeedHistory>
@@ -269,12 +268,6 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
-        <fullName>ChannelProgramLevelName</fullName>
-    </fields>
-    <fields>
-        <fullName>ChannelProgramName</fullName>
-    </fields>
-    <fields>
         <fullName>CleanStatus</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -303,21 +296,6 @@
                     <default>false</default>
                     <label>Medium</label>
                 </value>
-                <value>
-                    <fullName>Super High</fullName>
-                    <default>false</default>
-                    <label>Super High</label>
-                </value>
-                <value>
-                    <fullName>Super Medium</fullName>
-                    <default>false</default>
-                    <label>Super Medium</label>
-                </value>
-                <value>
-                    <fullName>Super</fullName>
-                    <default>false</default>
-                    <label>Super</label>
-                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
@@ -342,13 +320,6 @@
         <fullName>Industry</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
-    </fields>
-    <fields>
-        <fullName>IsCustomerPortal</fullName>
-    </fields>
-    <fields>
-        <fullName>IsPartner</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>Jigsaw</fullName>
@@ -380,11 +351,6 @@
         <trackFeedHistory>false</trackFeedHistory>
         <type>Number</type>
         <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>OperatingHoursId</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Lookup</type>
     </fields>
     <fields>
         <fullName>OwnerId</fullName>
