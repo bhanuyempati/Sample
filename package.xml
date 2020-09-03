@@ -12649,6 +12649,10 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>pubsub</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <types>
         <members>Account.AllAccounts</members>
         <members>Account.MyAccounts</members>
         <members>Account.NewLastWeek</members>
