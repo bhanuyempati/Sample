@@ -2,7 +2,7 @@
 <AppMenu xmlns="http://soap.sforce.com/2006/04/metadata">
     <appMenuItems>
         <name>standard__Service</name>
-        <type>CustomApplication</type>
+        <type>CustomApplicatio</type>
     </appMenuItems>
     <appMenuItems>
         <name>standard__Marketing</name>
