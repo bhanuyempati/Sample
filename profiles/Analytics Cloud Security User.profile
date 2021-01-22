@@ -10,14 +10,6 @@
     <userLicense>Analytics Cloud Integration User</userLicense>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ActivitiesAccess</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>AllowViewKnowledge</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>ApexRestServices</name>
     </userPermissions>
     <userPermissions>
@@ -46,19 +38,11 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>RunReports</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>ShowCompanyNameAsUserBadge</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>UseWebLink</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ViewAllForecasts</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -79,9 +63,5 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewSetup</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>WorkDotComUserPerm</name>
     </userPermissions>
 </Profile>
