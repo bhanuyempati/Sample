@@ -5,6 +5,7 @@ global with sharing class CommunitiesLoginController {
 	// New comment added
     global CommunitiesLoginController () {}
     
+   //comments
     // Code we will invoke on page load.
     global PageReference forwardToAuthPage() {
     	String startUrl = System.currentPageReference().getParameters().get('startURL');
