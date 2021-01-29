@@ -3,6 +3,7 @@
     <version>49.0</version>
     <types>
         <members>A0</members>
+        <members>A0091</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
         <members>CommitLabelClass</members>
