@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <custom>false</custom>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Active__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Asset-Asset Layout</layout>
     </layoutAssignments>
+    <loginIpRanges>
+        <endAddress>192.20.168.108</endAddress>
+        <startAddress>193.20.168.109</startAddress>
+    </loginIpRanges>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
@@ -52,6 +61,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>BulkMacrosAllowed</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>CanAccessCE</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -632,6 +645,14 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>TransferAnyLead</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>UseReturnOrder</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>UseReturnOrderAPIs</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
