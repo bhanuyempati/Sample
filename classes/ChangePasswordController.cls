@@ -12,5 +12,6 @@ public with sharing class ChangePasswordController {
     //sdfadsgjrds
     //new comments-4
     //This is comment testing comments
+    //edit
     public ChangePasswordController() {}
 }
