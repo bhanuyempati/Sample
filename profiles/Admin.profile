@@ -7,7 +7,10 @@
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
-        <layout>Asset-Asset Layout</layout>
+        <layout>Asset-Asset Layout12</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Asset-Asset Layout12</layout>
     </layoutAssignments>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
