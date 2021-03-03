@@ -22038,11 +22038,6 @@
         <recordType>Account.Account_Kazakhstan</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
-	<recordTypeVisibilities>
-        <default>false</default>
-        <recordType>Account.Account_Kazakhstan</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Account.Account_Latvia</recordType>
