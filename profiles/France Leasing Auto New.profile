@@ -22050,11 +22050,6 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>Account.Account_Lithuania</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>Account.Account_Morocco</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
