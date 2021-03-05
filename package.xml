@@ -39,6 +39,7 @@
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
+        <members>France Leasing Auto New</members>
         <name>Profile</name>
     </types>
     <types>
