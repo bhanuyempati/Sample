@@ -14302,6 +14302,7 @@
     <types>
         <members>PRS1</members>
         <members>PRS2</members>
+        <members>rcfatp__Data_Retention_Policy_Manager</members>
         <name>PermissionSet</name>
     </types>
     <types>
