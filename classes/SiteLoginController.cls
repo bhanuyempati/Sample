@@ -4,11 +4,11 @@
 global with sharing class SiteLoginController {
     global String username {get; set;}
     global String password {get; set;}
-
+	//some comment
     global PageReference login() {
         String startUrl = System.currentPageReference().getParameters().get('startURL');
         return Site.login(username, password, startUrl);
     }
-    //comments
+    
    	global SiteLoginController () {}
 }
