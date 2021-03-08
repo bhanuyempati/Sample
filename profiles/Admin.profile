@@ -9,9 +9,6 @@
     <layoutAssignments>
         <layout>Asset-Asset Layout12</layout>
     </layoutAssignments>
-    <layoutAssignments>
-        <layout>Asset-Asset Layout12</layout>
-    </layoutAssignments>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
