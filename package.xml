@@ -4,6 +4,7 @@
         <members>A0</members>
         <members>A0090</members>
         <members>A0091</members>
+        <members>A01234</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
         <members>CommitLabelClass</members>
