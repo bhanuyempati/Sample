@@ -14763,6 +14763,10 @@
         <name>StaticResource</name>
     </types>
     <types>
+        <members>Test_Territory_Model.Test_Territory_Rule1</members>
+        <name>Territory2Rule</name>
+    </types>
+    <types>
         <members>ACCObjTest1__c</members>
         <members>ACCObjt1__c</members>
         <members>ACDemoOBj1__c</members>
