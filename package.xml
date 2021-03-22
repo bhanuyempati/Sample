@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>49.0</version>
-	<packageVersions>
-       <majorNumber>10</majorNumber>
-        <minorNumber>1358</minorNumber>
-      <namespace>Apttus_Config2</namespace>
-   </packageVersions>
     <types>
         <members>A0</members>
         <members>A0090</members>
