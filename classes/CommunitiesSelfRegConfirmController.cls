@@ -3,5 +3,6 @@
  */
 public with sharing class CommunitiesSelfRegConfirmController {
     
+	//comment-1 new comment
     public CommunitiesSelfRegConfirmController() {}
 }

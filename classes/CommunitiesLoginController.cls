@@ -2,9 +2,11 @@
  * An apex page controller that exposes the site login functionality
  */
 global with sharing class CommunitiesLoginController {
-
+	// New comment added
     global CommunitiesLoginController () {}
     
+   //comments
+//more changes
     // Code we will invoke on page load.
     global PageReference forwardToAuthPage() {
     	String startUrl = System.currentPageReference().getParameters().get('startURL');
