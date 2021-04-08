@@ -2,6 +2,8 @@
     <version>49.0</version>
     <types>
         <members>A0</members>
+        <members>A0090</members>
+        <members>A0091</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
         <members>CommitLabelClass</members>
@@ -37,6 +39,7 @@
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
+        <members>France Leasing Auto New</members>
         <name>Profile</name>
     </types>
     <types>
