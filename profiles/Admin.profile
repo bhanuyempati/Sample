@@ -11,7 +11,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
-        <layout>Asset-Asset Layout</layout>
+        <layout>Asset-Asset Layout4378</layout>
     </layoutAssignments>
     <userLicense>Salesforce</userLicense>
     <userPermissions>

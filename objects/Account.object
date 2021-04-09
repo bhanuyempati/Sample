@@ -3,7 +3,7 @@
     <validationRules>
         <fullName>Account_Number_8_Characters_Test</fullName>
         <active>false</active>
-        <description>Validates that the Account Number is numeric if not blank.</description>
+        <description>Validates that the Account Number is numeric if not blank. dlshd</description>
         <errorConditionFormula>LEN( AccountNumber) != 8</errorConditionFormula>
         <errorMessage>Account Number is not numeric.</errorMessage>
     </validationRules>

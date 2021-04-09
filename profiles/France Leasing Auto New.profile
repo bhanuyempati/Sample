@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
-        <application>ALDCRMv4nlkds</application>
+        <application>ALDCRMv4kjds</application>
         <default>true</default>
         <visible>true</visible>
     </applicationVisibilities>
@@ -22038,14 +22038,14 @@
         <recordType>Account.Account_Kazakhstan</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
-	<recordTypeVisibilities>
+    <recordTypeVisibilities>
         <default>false</default>
-        <recordType>Account.Account_Kazakhstan</recordType>
+        <recordType>Account.Account_Latvia</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>Account.Account_Latvia</recordType>
+        <recordType>Account.Account_Lithuania</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
