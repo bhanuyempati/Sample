@@ -64,6 +64,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>CanAccessCE</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>CanInsertFeedSystemFields</name>
     </userPermissions>
     <userPermissions>
@@ -641,6 +645,14 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>TransferAnyLead</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>UseReturnOrder</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>UseReturnOrderAPIs</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
