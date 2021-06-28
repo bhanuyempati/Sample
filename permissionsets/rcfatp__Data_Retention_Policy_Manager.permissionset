@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>rcfatp__Field_Audit_Trail_Cockpit</application>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Data Retention Policy Manager</label>
+    <pageAccesses>
+        <apexPage>rcfatp__DRP_Manager</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
+    <tabSettings>
+        <tab>rcfatp__Data_Retention_Policy_Manager</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+</PermissionSet>
