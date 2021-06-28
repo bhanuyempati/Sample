@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <validationRules>
+        <fullName>SampleValid1</fullName>
+        <active>true</active>
+        <errorConditionFormula>$User.FirstName =  $User.Username</errorConditionFormula>
+        <errorMessage>User Error</errorMessage>
+    </validationRules>
+</CustomObject>
