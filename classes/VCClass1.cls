@@ -1,1 +1,0 @@
-global class VCClass1{}
